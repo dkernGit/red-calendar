@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/red-calendar/static/css/main.15a34566.chunk.css",
+    "main.js": "/red-calendar/static/js/main.976f3b80.chunk.js",
+    "main.js.map": "/red-calendar/static/js/main.976f3b80.chunk.js.map",
+    "runtime-main.js": "/red-calendar/static/js/runtime-main.6da66228.js",
+    "runtime-main.js.map": "/red-calendar/static/js/runtime-main.6da66228.js.map",
+    "static/js/2.58c2b442.chunk.js": "/red-calendar/static/js/2.58c2b442.chunk.js",
+    "static/js/2.58c2b442.chunk.js.map": "/red-calendar/static/js/2.58c2b442.chunk.js.map",
+    "index.html": "/red-calendar/index.html",
+    "precache-manifest.3529aca3a33a28adba3ef2953c6f83e6.js": "/red-calendar/precache-manifest.3529aca3a33a28adba3ef2953c6f83e6.js",
+    "service-worker.js": "/red-calendar/service-worker.js",
+    "static/css/main.15a34566.chunk.css.map": "/red-calendar/static/css/main.15a34566.chunk.css.map",
+    "static/js/2.58c2b442.chunk.js.LICENSE.txt": "/red-calendar/static/js/2.58c2b442.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6da66228.js",
+    "static/js/2.58c2b442.chunk.js",
+    "static/css/main.15a34566.chunk.css",
+    "static/js/main.976f3b80.chunk.js"
+  ]
+}
